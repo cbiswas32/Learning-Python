@@ -1,0 +1,17 @@
+tf=[]
+f1=input("enter 1st fruit: ")
+tf.append(f1)
+f2=input("enter 2nd fruit: ")
+tf.append(f2)
+f3=input("enter 3rd fruit: ")
+tf.append(f3)
+f4=input("enter 4th fruit: ")
+tf.append(f4)
+f5=input("enter 5th fruit: ")
+tf.append(f5)
+f6=input("enter 6th fruit: ")
+tf.append(f6)
+f7=input("enter 7th fruit: ")
+tf.append(f7)
+
+print(tf)

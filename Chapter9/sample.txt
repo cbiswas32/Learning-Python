@@ -1,0 +1,9 @@
+hello
+ hii
+Chinmoy wants to learn python
+
+Modes:
+r ---> Open for Reading
+w ---> Open for Writting
+a ---> Open for appending
++ ---> Open for Updating
